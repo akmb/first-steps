@@ -1,2 +1,4 @@
 # first-steps
-try to dive deeper
+trying to dive deeper
+
+I like :coffee: :surfer: and more
